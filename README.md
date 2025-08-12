@@ -12,7 +12,7 @@ Short description: Exploratory data analysis and cleaning of the Dirty Cafe sale
 - `requirements.txt`: Python dependencies
 
 ## Technologies
-   Python, Pandas, NumPy, Matplotlib, Seabor
+   Python, Pandas, NumPy, Matplotlib, Seaborn
 ## How to Run
 
 1. Clone the repository:
