@@ -4,7 +4,7 @@ Short description: Exploratory data analysis and cleaning of the Dirty Cafe sale
 
 ## Dataset
 - **Source**: Kaggle — Dirty Cafe Sales — Dirty Data for Cleaning Training
-- **Link**: [Dataset: Dirty Cafe](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
+- **Link**: [Dirty_Cafe_Dataset](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
 
 ## Repository Structure
 - `data/`: Datasets (raw and cleaned)
